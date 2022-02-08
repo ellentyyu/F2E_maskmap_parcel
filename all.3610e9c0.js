@@ -560,4 +560,4 @@ axios.get('https://raw.githubusercontent.com/kiang/pharmacies/master/json/points
 });
 (0, _onEvent.default)();
 },{"./model/utils":"F33o","./view/renderDateId":"ugtB","./view/renderCounties":"MY4V","./view/renderTowns":"N58o","./view/createMap":"UfnF","./view/renderMarkers":"p7SU","./view/renderPharmList":"nocC","./handlers/onEvent":"zTtf"}]},{},["PfBf"], null)
-//# sourceMappingURL=/all.3610e9c0.js.map
+//# sourceMappingURL=https://github.com/ellentyyu/F2E_maskmap_parcel/all.3610e9c0.js.map
