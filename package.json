@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --no-minify",
-    "predeploy": "rimraf dist && parcel build src/index.html --no-minify --public-url https://github.com/ellentyyu/F2E_maskmap_parcel",
+    "predeploy": "rimraf .cache dist && parcel build src/index.html --no-minify --public-url https://ellentyyu.github.io/F2E_maskmap_parcel/",
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
