@@ -31,5 +31,5 @@ npm run build
 ```
 
 ## 聲明
-* 2021.10 作品。
-* 本網站僅供個人作品練習使用。
+* 設計稿：[F2E設計師 Wendy](https://challenge.thef2e.com/user/2259)
+* 2021.10 作品。本網站僅供個人作品練習使用。
