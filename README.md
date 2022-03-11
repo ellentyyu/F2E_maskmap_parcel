@@ -4,10 +4,10 @@
 https://ellentyyu.github.io/F2E_maskmap_parcel/
 
 ## 功能
+* 口罩庫存量查詢
 * 地區篩選
 * 地址搜尋
 * 藥局及使用者即時定位
-* 購買資格及口罩庫存判別
 
 ## 技術
 * OpenStreetMap 圖資
