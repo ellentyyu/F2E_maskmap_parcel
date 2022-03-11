@@ -14,6 +14,7 @@ https://ellentyyu.github.io/F2E_maskmap_parcel/
 * Leaflet
 * Leaflet MarkerCluster 套件
 * Leaflet Locate 套件
+* 響應式設計
 * SCSS
 * Parcel.js
 
